@@ -16,7 +16,7 @@ setuptools.setup(
         "python-dateutil==2.8.2",
         "feedparser==6.0.8",
         "jsonlines==3.0.0",
-        "requests==2.27.1",
+        "requests==2.32.0",
         "wheel",
         "GitPython",
         "gdown",
